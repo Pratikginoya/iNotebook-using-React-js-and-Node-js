@@ -44,7 +44,8 @@ Here some screenshots of backend for your reference...
 
 ### Again Fetch All Notes after Delete
 
-![Screenshot (113)](https://github.com/user-attachments/assets/4c94a7c8-665e-4be3-bdba-f7547422b655)
+![Screenshot (116)](https://github.com/user-attachments/assets/a9dd8180-4e27-4ae3-a5ad-bd7fabd57258)
+
 
 ## Front-end (using React.js) :-
 After above task, I completed the Front-end with React.js, which consumes the RESTful APIs from the Node.js backend. This project features advanced React.js concepts, such as context stores and custom hooks.
