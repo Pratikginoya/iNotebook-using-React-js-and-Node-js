@@ -63,7 +63,7 @@ Here some screenshots of frontend for your reference...
 
 ![Screenshot (102)](https://github.com/user-attachments/assets/2bd350b4-9697-4599-b417-d89945b06256)
 
-## Add Notes by Logined User
+## Add Notes by Loggedin User
 
 ![Screenshot (105)](https://github.com/user-attachments/assets/79203120-cbff-4bf4-b0db-eb7fc8991277)
 
