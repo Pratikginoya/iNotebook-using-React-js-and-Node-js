@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# iNotebook Using React.js & Node.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello! I am Pratik Ginoya. This is my React.js & Node.js project, iNotebook. Through this project, I have learned advanced React.js concepts for the front-end and Node.js for the back-end.
 
-## Available Scripts
+## About the project
 
-In the project directory, you can run:
+- In this React-Node project, users can sign-up, log-in and view their notes.
+- They can also add, edit, or delete notes for future reference.
+- All data is stored on the server side through the APIs.
 
-### `npm start`
+## Back-end (using Node.js) :-
+First, I built a backend using Node.js with MongoDB. I used MongoDB as the database and implemented key concepts such as middleware and authentication tokens. I also created RESTful APIs for user login and signup, including generating authentication tokens. Additionally, I developed an API for CRUD operations on notes.
+- You can find this Node.js project in the Backend folder of this repository.
+  
+Here some screenshots of backend for your reference...
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Create New User API
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot (108)](https://github.com/user-attachments/assets/ea63302c-e9e0-4f0b-90d9-527914f31d0b)
 
-### `npm test`
+### Get User Data API
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot (109)](https://github.com/user-attachments/assets/2221c782-63e5-411f-8e67-f05115628a29)
 
-### `npm run build`
+## Login API
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot (110)](https://github.com/user-attachments/assets/68630322-aacf-4398-8435-be3415a717a6)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Add Note API
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot (112)](https://github.com/user-attachments/assets/862d45c0-8b89-481a-9b46-94188414aaa5)
 
-### `npm run eject`
+## Fetch All Notes API
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot (113)](https://github.com/user-attachments/assets/4aa92611-8bb7-4d31-8a51-299441a72487)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Update Note API
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Screenshot (114)](https://github.com/user-attachments/assets/4b31ea04-159c-41ca-8a7c-a543333d297c)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Delete Note API
 
-## Learn More
+![Screenshot (115)](https://github.com/user-attachments/assets/7c4d8f0a-edb8-4644-b1e3-2aaf7407483b)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Again Fetch All Notes after Delete
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot (113)](https://github.com/user-attachments/assets/4c94a7c8-665e-4be3-bdba-f7547422b655)
 
-### Code Splitting
+## Front-end (using React.js) :-
+After above task, I completed the Front-end with React.js, which consumes the RESTful APIs from the Node.js backend. This project features advanced React.js concepts, such as context stores and custom hooks.
+  
+Here some screenshots of frontend for your reference...
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## User Login
 
-### Analyzing the Bundle Size
+![Screenshot (100)](https://github.com/user-attachments/assets/cd79a921-c547-4881-8ed7-11745c174562)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## User Sign up
 
-### Making a Progressive Web App
+![Screenshot (101)](https://github.com/user-attachments/assets/ed581f33-be41-4293-bbd8-486feb1937d2)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Notes CRUD view after Login
 
-### Advanced Configuration
+![Screenshot (102)](https://github.com/user-attachments/assets/2bd350b4-9697-4599-b417-d89945b06256)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Add Notes by Logined User
 
-### Deployment
+![Screenshot (105)](https://github.com/user-attachments/assets/79203120-cbff-4bf4-b0db-eb7fc8991277)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Edit Note
 
-### `npm run build` fails to minify
+![Screenshot (106)](https://github.com/user-attachments/assets/6d32687c-1469-4bb3-9471-5487376d2597)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Delete Note
+
+![Screenshot (107)](https://github.com/user-attachments/assets/e43d6c9e-b20b-4e50-ae7c-4841ad591955)
+
+
+
+**Note :-** Please install the packages to run the npm install command before use this project (in Backend folder also)
