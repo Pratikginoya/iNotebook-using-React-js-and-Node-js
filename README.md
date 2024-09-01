@@ -73,8 +73,10 @@ Here some screenshots of frontend for your reference...
 
 ### Delete Note
 
+![Screenshot (117)](https://github.com/user-attachments/assets/72ce0b3e-4e24-4f0d-8f38-b5fe526208be)
+
+### About Us Page
+
 ![Screenshot (107)](https://github.com/user-attachments/assets/e43d6c9e-b20b-4e50-ae7c-4841ad591955)
-
-
 
 **Note :-** Please install the packages to run the npm install command before use this project (in Backend folder also)
